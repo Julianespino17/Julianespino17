@@ -1,6 +1,6 @@
 ## Hi, I'm Julian Espinosa 🏀
  <div align="center">
-      <p>Estudiante de Ingeniería de Sistemas de la Universidad EAN 
+      <p>🕹️Estudiante de Ingeniería Macatronica de la Universidad EAN🎮 
 
 <!--
 **Julianespino17/Julianespino17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
