@@ -17,7 +17,7 @@
       <h3>Mi contacto: </h3>
       <a href="https://www.instagram.com/julian_espinosa_15/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=blue alt=instagram style="margin-bottom: 5px;" />
-<a href="https://github.com/AnaBeltran24" target="_blue">
+<a href="https://github.com/Julianespino17" target="_blue">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
     </div>    
