@@ -17,8 +17,9 @@
       <h3>Mi contacto: </h3>
       <a href="https://www.instagram.com/julian_espinosa_15/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=blue alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="Julianesbon@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="ig" width="50" height="53"></a>
+<a href="https://github.com/AnaBeltran24" target="_blue">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
     </div>    
 <!--
 **Julianespino17/Julianespino17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
