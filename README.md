@@ -1,4 +1,4 @@
-## Hi there, I'am Julian Espinosa 🏀
+## Hi there, I'm Julian Espinosa 🏀
 
 <!--
 **Julianespino17/Julianespino17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
