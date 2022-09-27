@@ -6,7 +6,6 @@
       <a href="Julianesbon@gmail.com"><img src="https://github.com/svcuellar/svcuellar/blob/main/gmail.png" alt="ig" width="50" height="53"></a>
       <a href="julianescon@hotmail.com"><img src="https://github.com/svcuellar/svcuellar/blob/main/gmail.png" alt="ig" width="50" height="53"></a>
     </div>    
-@gmail.com
 <!--
 **Julianespino17/Julianespino17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
